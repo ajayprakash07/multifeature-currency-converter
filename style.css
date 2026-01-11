@@ -76,6 +76,8 @@ form input {
 
 .msg {
   margin: 2rem 0 2rem 0;
+  font-size: 1rem;
+  margin: 15px;
 }
 
 form button {
@@ -84,5 +86,4 @@ form button {
   color: #fff;
   font-size: 1.15rem;
   cursor: pointer;
-
 }
